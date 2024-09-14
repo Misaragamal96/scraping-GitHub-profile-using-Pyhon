@@ -1,2 +1,2 @@
 # scraping-GitHub-profile-using-Pyhon
-إليك كيفية تجريف ملف تعريف GitHub باستخدام لغة البرمجة بايثون. يعتبر تجريف الويب من أهم المهارات التي يجب على كل مبرمج إتقانها. لذلك، من الضروري تعلم كيفية تجريف الصور من أي موقع باستخدام تقنيات تجريف الويب. هذا المقال يوضح كيفية القيام بذلك، وتم كتابة الكود بواسطة MISARA Gamal.
+إThis Python script scrapes the profile picture from a given GitHub user’s profile page using the requests library to fetch the webpage and BeautifulSoup for parsing the HTML. It locates the image tagged as the avatar (profile picture) and extracts its source URL for easy access.
